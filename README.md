@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhav Rao</h1>
-<h3 align="center">I am passionate to become a software developer</h3>
+<h3 align="center">I am passionate about becoming a software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavrao2403&label=Profile%20views&color=0e75b6&style=flat" alt="madhavrao2403" /> </p>
 
